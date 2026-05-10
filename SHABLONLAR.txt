@@ -1,0 +1,39 @@
+QUIZ IMPORT BOT UCHUN TO'G'RI SHABLONLAR
+
+1-SHABLON: Eng tavsiya qilinadigan format
+
+Savol matni shu yerga yoziladi?
+=====
+Noto'g'ri variant
+=====
+#To'g'ri variant
+=====
+Noto'g'ri variant
+=====
+Noto'g'ri variant
++++++
+
+2-SHABLON: Qisqa format
+
+Savol matni shu yerga yoziladi?
+=====
+#To'g'ri variant
+Noto'g'ri variant
+Noto'g'ri variant
+Noto'g'ri variant
++++++
+
+3-SHABLON: A, B, C, D format
+
+1. Savol matni shu yerga yoziladi?
+A) Noto'g'ri variant
+#B) To'g'ri variant
+C) Noto'g'ri variant
+D) Noto'g'ri variant
+
+MUHIM QOIDALAR:
+1. To'g'ri javob oldiga albatta # belgisi qo'ying.
+2. Har bir savolda faqat 1 ta # bo'lsin.
+3. Har bir savolda kamida 2 ta variant bo'lsin.
+4. Savollarni +++++ bilan ajratsangiz, bot aniqroq o'qiydi.
+5. DOCX faylda jadval ichida yozilgan matn ham o'qiladi, lekin eng yaxshi format oddiy matn ko'rinishidir.
