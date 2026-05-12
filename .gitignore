@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+*.session
+*.db
+/data/
+/tmp/
+*.png
+*.jpg
